@@ -1,14 +1,16 @@
 ---
 layout: post
-title: 郴州河
+title: 走失云间
 categories: Blog
-description: 后来的我经常一个人，带着相机郴州河边拍紫葳花。
+description: 我对盛夏的印象无非是优雅的飞鸟，摇曳的树影，轻柔的叶浪和盛开的紫葳。
 keywords: 小说
 ---
 
 ## 走失云间
+
 ### 文/轩先生
-&emsp;&emsp;我对盛夏的印象无非是优雅的飞鸟，摇曳的树影，轻柔的叶浪和盛开的紫葳。
+
+&emsp;&emsp;&emsp;&emsp;我对盛夏的印象无非是优雅的飞鸟，摇曳的树影，轻柔的叶浪和盛开的紫葳。
 
 &emsp;&emsp;&emsp;&emsp;此行去云南，我要带走一朵紫葳。
 
