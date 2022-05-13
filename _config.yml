@@ -141,17 +141,17 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: LeventureQys
+    owner: 文学部守夜人
     repo: blogtalk
     oauth:
-        client_id: eb82ed3e5eefa96e1771
-        client_secret: df6e43d60948ca57e5aa1f7febb1b26cc70b1f8b
+        client_id: 27285b6e24e599ab7788
+        client_secret: 28731a271104c5885d94b21aaf6d1f5a1ab0b85d
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: LeventureQys
+    owner: 文学部守夜人
     repo: blogtalk
-    clientID: eb82ed3e5eefa96e1771
-    clientSecret: df6e43d60948ca57e5aa1f7febb1b26cc70b1f8b
+    clientID: 27285b6e24e599ab7788
+    clientSecret: 28731a271104c5885d94b21aaf6d1f5a1ab0b85d
 # https://utteranc.es/
 utterances:
     repo: blogtalk
