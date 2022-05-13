@@ -8,7 +8,7 @@ date_format: "ordinal"
 #subtitle: "文丑先生的流水账"
 #description: "写点bug，再写点诗"
 #keywords: C++, Qt, C#,文学, 情书
-title: 大学生通讯社文学部官网2
+title: 大学生通讯社文学部官网
 subtitle: "与肝胆人共事，于无字处读书"
 description: "写点bug，再写点诗"
 #keywords: C++, Qt, C#,文学, 情书
@@ -154,7 +154,7 @@ gitalk:
     clientSecret: df6e43d60948ca57e5aa1f7febb1b26cc70b1f8b
 # https://utteranc.es/
 utterances:
-    repo: LeventureQys/blogtalk
+    repo: blogtalk
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
