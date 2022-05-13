@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://leventureqys.github.io/
+url: http://hnustliterature.github.io/
 date_format: "ordinal"
 #title: 轩先生的人间冒险
 #subtitle: "文丑先生的流水账"
@@ -10,7 +10,7 @@ date_format: "ordinal"
 #keywords: C++, Qt, C#,文学, 情书
 title: 大学生通讯社文学部官网
 subtitle: "与肝胆人共事，于无字处读书"
-description: "写点bug，再写点诗"
+description: "大学生通讯社文学部官网"
 #keywords: C++, Qt, C#,文学, 情书
 keywords: 文学，征稿启事，散文，诗歌，小说
 timezone: Asia/Shanghai
@@ -18,7 +18,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: LeventureQys/LeventureQys.github.io
+repository: HnustLiterature/HnustLiterature.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -63,7 +63,7 @@ author: Leventure
 organization: 
 organization_url: 
 github_username: LeventureQys
-location: 人在广州，刚下飞机
+location: 湖南，湘潭
 email: le_venture@foxmail.com
 
 # ---------------- #
