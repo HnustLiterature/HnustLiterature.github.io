@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 郴州河
-categories: 小说
+categories: novel
 description: 后来的我经常一个人，带着相机郴州河边拍紫葳花。
-keywords: 小说
+keywords: novel
 ---
 
 郴州河
