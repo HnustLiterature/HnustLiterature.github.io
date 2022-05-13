@@ -53,7 +53,7 @@ keywords: operation instructio
 
 &emsp;&emsp;到此处就算成功进入主页管理后台界面了
 
-### 3.如何插入一篇征稿启事，或者文章？
+### 3.如何新建一篇征稿启事，或者文章？
 
 &emsp;&emsp;在整个后台中有非常多的文件，其中涉及到整个界面的ui，和各个界面的内容，但是如果你不懂计算机的话，则只用修改_posts文件夹就好，里面就是文章的内容
 
@@ -64,6 +64,8 @@ keywords: operation instructio
 ![](https://cdn.jsdelivr.net/gh/hnkjdaxzzq/img@d31b7dd58dfe63c85e24a3c1a1c538061bc19f89/2022/05/13/74ec33eff6f3529fa68237d76f5f6806.png)
 
 &emsp;&emsp;注意这些推送的命名格式 ，一般都是 年-月-日-象征该文章名称的名字，当然这个名字你可以任意命名，但请确保是英文，避免不必要的错误发生，这里的命名和文章的名称无关，只是一个单纯的存储内容的地址而已。
+
+&emsp;&emsp;但是需要注意的是，这个前面的年月日则是会影响到文章的发布时间的。也就是说命名上写的发布时间是多久，那这个发布时间自然就是多久
 
 &emsp;&emsp;插入一个新的推送，需要点击右上角的Add File->Create new File
 
@@ -117,3 +119,10 @@ keywords: operation instructio
 
 如果出现了ERROR:Network Error或者not found，请联系我，我可以上来看看问题
 
+## 6.如何删除推送？
+
+在_post文件夹里选择到指定的推送，进入到编辑界面后，点击右上方的小垃圾桶按钮即可
+
+![](https://cdn.jsdelivr.net/gh/hnkjdaxzzq/img@e5422a1165e15c0cfb27d847383dcd997b8fae19/2022/05/13/7f39cf5b0fba30796be16002e037bd31.png)
+
+删除整个文件，就可以删除整个推送了
