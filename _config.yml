@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2022-05-13
+        start_date: 2022-05-10
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -58,7 +58,7 @@ author: Leventure
 organization: 
 organization_url: 
 github_username: LeventureQys
-location: GuangDong,China
+location: 人在广州，刚下飞机
 email: le_venture@foxmail.com
 
 # ---------------- #
