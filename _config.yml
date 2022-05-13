@@ -142,14 +142,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 文学部守夜人
-    repo: blogtalk
+    repo: hnustliterature.github.io
     oauth:
         client_id: 27285b6e24e599ab7788
         client_secret: 28731a271104c5885d94b21aaf6d1f5a1ab0b85d
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 文学部守夜人
-    repo: blogtalk
+    repo: hnustliterature.github.io
     clientID: 27285b6e24e599ab7788
     clientSecret: 28731a271104c5885d94b21aaf6d1f5a1ab0b85d
 # https://utteranc.es/
