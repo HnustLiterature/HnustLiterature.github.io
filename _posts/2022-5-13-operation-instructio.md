@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 大学生通讯社官网使用说明
-categories: operation-instructio
+categories: 使用说明
 description: 关于如何使用大学生通讯社官网后台
-keywords: operation instructio
+keywords: 使用说明 官网
 ---
 
 ## 关于如何从零开始使用大学生通讯社使用官网说明官网后台的说明
@@ -11,6 +11,8 @@ keywords: operation instructio
 ### 写在前面
 
 &emsp;&emsp;本项目基于github page ，是一个比较简单的静态界面，因为我是做c++和c#的，前端这个东西不是很懂，所以很多东西其实我也是一知半解，不过我会尽我所能将整个项目修改到一个最佳状态，以供大家使用。
+
+视频教程页面 [文学部官网后台使用方法](https://www.bilibili.com/video/BV1GA4y1f7GY/)
 
 &emsp;&emsp;另外提一点，就是这个github因为不是部署在国内的网络，所以用起来网络不会很稳定，要有心理准备，如果有vpn的话也可以尝试使用vpn登陆账号和做后台修改，至于这种东西怎么获取，你联系我，如果我有相关的资源我会分享给你的，当然了也不一定。这个页面的控件很多，我只改了其中的一部分，还有一部分可能还留着我的痕迹，如果需要修改的话可以联系到我，或者你自己看得懂这个后台的文件也可以自己尝试修改。
 
