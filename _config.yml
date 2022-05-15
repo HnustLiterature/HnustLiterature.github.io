@@ -141,14 +141,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 文学部守夜人
+    owner: HnustLiterature
     repo: blogtalk
     oauth:
         client_id: 755497560842b3625abe
         client_secret: 0fe2e49eb25b4565005640d6226a8ed7fc5bc3dc
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 文学部守夜人
+    owner: HnustLiterature
     repo: blogtalk
     clientID: 755497560842b3625abe
     clientSecret: 0fe2e49eb25b4565005640d6226a8ed7fc5bc3dc
