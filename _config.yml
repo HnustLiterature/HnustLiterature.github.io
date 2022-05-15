@@ -144,14 +144,14 @@ gitment:
     owner: 文学部守夜人
     repo: hnustliterature.github.io
     oauth:
-        client_id: 27285b6e24e599ab7788
-        client_secret: 28731a271104c5885d94b21aaf6d1f5a1ab0b85d
+        client_id: 755497560842b3625abe
+        client_secret: 0fe2e49eb25b4565005640d6226a8ed7fc5bc3dc
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 文学部守夜人
     repo: hnustliterature.github.io
-    clientID: 27285b6e24e599ab7788
-    clientSecret: 28731a271104c5885d94b21aaf6d1f5a1ab0b85d
+    clientID: 755497560842b3625abe
+    clientSecret: 0fe2e49eb25b4565005640d6226a8ed7fc5bc3dc
 # https://utteranc.es/
 utterances:
     repo: blogtalk
